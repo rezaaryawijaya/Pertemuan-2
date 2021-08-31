@@ -1,0 +1,52 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+li{
+    list-style: none;
+    float: left;
+    padding: 33px 20px;
+}
+.header{
+    background-color: rgb(39, 39, 39);
+    color: whitesmoke;
+    height: 90px;
+}
+.header-logo{
+    font-size: 36px;
+    float: left;
+    padding: 20px 40px;
+}
+.header-list li{
+    float: left;
+    padding: 33px 50px;
+}
+.main{
+    background-color: whitesmoke;
+    padding: 100px 80px;
+}
+.copy-container h1{
+    font-size: 140px;
+}
+.copy-container h2{
+    font-size: 60px;
+}
+.copy-container span{
+    color: red;
+}
+.footer{
+    background-color: rgb(39, 39, 39);
+    color: whitesmoke;
+    height: 120px;
+    padding: 40px;
+}
+.footer-logo{
+    font-size: 32px;
+    float: left;
+    padding: 40px;
+}
+.footer-list{
+    float: right;
+}
+.footer-list li{
+    padding-bottom: 20px;
+}
